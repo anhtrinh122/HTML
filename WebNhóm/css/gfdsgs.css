@@ -1,29 +1,29 @@
 body {
     font-family: Arial, sans-serif ;
-    background-color: #7db09d;
+    background-color: #6a8a7e;
     margin: 0;
     padding: 0;
 }
 h1 {
     text-align: center;
-    color: #333;
+    color: #130707;
 }
 h2 {
-    color: #555;
+    color: #d35d5d;
 }
 
 p {
     margin: 15px;
     padding: 20px;
-    background-color: #af8e8e;
+    background-color: #b8a5a5;
     border: 1px solid #945959;
     border-radius: 5px;
 }
 ul, ol {
     margin: 15px;
     padding: 15px;
-    background-color: #ce6666;
-    border: 1px solid #ccc;
+    background-color: #ccaeae;
+    border: 1px solid #ffffff;
     border-radius: 5px;
 }
 li {
@@ -33,6 +33,6 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 20px;
-    background-color: #333333;
-    color: #555;
+    background-color: #ac8787;
+    color: #b39f9f;
 }
